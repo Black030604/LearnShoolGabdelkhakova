@@ -48,7 +48,7 @@
                         </Grid.RowDefinitions>
                         
                         
-                       <Image  Height = "150"
+                       <Image   Height = "150"
                                Width="150"
                                Grid.Column="0"
                                Grid.RowSpan="2">
